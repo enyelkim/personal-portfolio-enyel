@@ -3,6 +3,8 @@
 
 _Pagina web personal donde hablo sobre mi y muestro mis proyectos._
 
+![Foto portafolio](https://github.com/enyelkim/personal-portfolio-enyel/blob/main/img/portfolio-cv.png)
+
 ## Comenzando.🚀🛠
 
 _Hecho con HTML, CSS puro y javascript._
